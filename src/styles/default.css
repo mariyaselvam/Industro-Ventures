@@ -1,0 +1,48 @@
+::root{
+  --primary: var(#000000);
+}
+
+* , ::before , ::after{
+  box-sizing: border-box;
+  padding: 0rem;
+  margin: 0rem;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+section , footer , .page-wraper {
+  max-width: 2500px;
+  margin: 0rem auto;
+}
+
+.page-wraper{
+  overflow-y: hidden;
+}
+
+ul{
+  list-style: none;
+  background-color: var(--primary);
+  padding: 0px;
+}
+
+* {
+  font-weight: 400;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+
+input , textarea  , select {
+  display: block;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+}
+

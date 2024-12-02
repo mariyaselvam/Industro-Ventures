@@ -1,0 +1,108 @@
+@media (max-width:600px) {
+    .header-logo--nav-wrap{
+        padding: 0px;
+    }
+    .join-us-main-tit{
+        font-size: 40px;
+        font-weight: 800;
+        line-height: 59.21px;
+    }
+    .what-we-do-tit-wrap{
+        transform: translate(0px);
+        text-align: center;
+    }
+    .what-we-main-do{
+        margin: 0rem auto 1rem;
+    }
+
+    .why-chose-us-cont-wrap{
+        padding: 50px 20px;
+    }
+    .why-chose-us-main-tit{
+        text-align: center;
+    }
+    .client-feedback-swiper-card-1{
+        margin: 0px;
+    }
+    .join-us-sec{
+        padding: 50px 0px;
+        background-position: center;
+    }
+    .blog-listing-card{
+        width: 90%;
+    }
+    .first-name{
+        width: 100%;
+    }
+    .contact-us-form-wrap, .contact-us-cont-social-links-wrap{
+        padding: 100px 60px;
+    }
+    .contact-form-main-tit{
+        font-size: 31.23px;
+    }
+
+    .client-feedback-swiper-card-4 , .client-feedback-swiper-card-2{
+        display: none;
+    }
+    .C-profile{
+        left: 50%;
+        bottom: -50px;
+    }
+    .client-feedback-swiper-card-1, .client-feedback-swiper-card-2, .client-feedback-swiper-card-3, .client-feedback-swiper-card-4{
+        padding: 10px;
+    }
+    .client-feedback-swiper-card-1 > p, .client-feedback-swiper-card-2 > p, .client-feedback-swiper-card-3 > p, .client-feedback-swiper-card-4 > p{
+        font-size: 14.64px;
+        font-weight: 400;
+        line-height: 26.75px;
+    }
+    .client-feedback-swiper-card-1 > span, .client-feedback-swiper-card-2 > span, .client-feedback-swiper-card-3 > span, .client-feedback-swiper-card-4 > span{
+        font-size: 12px;
+    }
+    
+    .about-us-hole-content{
+        padding: 50px 0px;
+    }
+    .main-logo{
+        width: 140px;
+    }
+    header{
+        height: auto;
+    }
+    .what-we-do-card{
+        width: 91%;
+        margin: 0rem auto 2rem;
+        height: max-content;
+    }
+    .why-chose-us-sec{
+        padding: 50px 0px;
+    }
+    .join-us-btn{
+        padding: 10px 38px;
+        font-size: 21.36px;
+        font-weight: 500;
+    }
+    .join-us-main-para{
+        font-size: 21.68px;
+        font-weight: 400;
+        line-height: 37.7px;
+    }
+    .what-we-main-para{
+        font-size: 18px;
+        font-weight: 500;
+        line-height: 26.68px;
+    }
+    .banner-content{
+        padding-top: 50px;
+    }
+    .banner-main-img{
+        padding: 2rem 0rem;
+    }
+    footer{
+        margin-top: 0px;
+    }
+    .client-feedback-swiper-wrap .swiper{
+        width: 100%;
+        max-height: 430px;
+    }
+}

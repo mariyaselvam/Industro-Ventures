@@ -1,0 +1,22 @@
+@media (max-width:1000px) {
+    .nav-options{
+        display: none;
+    }
+    .hamburger-menu{
+        display: block;
+    }
+    .about-visition-nd-misition > *{
+        width: 100%;
+    }
+    .client-feedback-swiper-card-2  , .client-feedback-swiper-card-4{
+        /* display: none; */
+     }
+
+    .client-feedback-swiper-card-1{
+        margin: 0px;
+        margin-bottom: 47px;
+    }
+    .join-us-sec{
+        background-position: 0px 0px;
+    }
+}
